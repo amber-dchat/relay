@@ -2,5 +2,11 @@
 	"dependencies": {
 		"gun": "^0.2020.1240",
 		"express": "^4.21.0"
-	}
+	},
+	"author": "dchat-app",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"name": "@dchatapp/relay",
+	"private": true
 }
